@@ -1,5 +1,4 @@
-//created the most basic version of a function that returns 42, making the test pass
-function addition () {
-    return 42;
+// the calculator is now more advanced, it will take 2 arguments (num1, num2) and return the addition of the two inputs.
+function addition (num1, num2) {
+    return num1 + num2;
 }
-
